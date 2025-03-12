@@ -23,7 +23,6 @@ Ushbu loyiha quyidagi asosiy maqsadlarni ko‘zda tutadi:
 - **JWT Authentication**  
 - **SignalR** (real vaqt bildirishnomalari uchun)  
 - **Swagger** (API hujjatlari uchun)  
-- **FluentValidation** (model validatsiyasi, agar qo‘llanilsa)
 
 ## O‘rnatish va Sozlash
 
