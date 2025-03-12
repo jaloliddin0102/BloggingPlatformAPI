@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloggingPlatformApi", "BloggingPlatformApi\BloggingPlatformApi.csproj", "{52143A15-89C0-4230-BB9B-A65D7D688FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications", "Notifications\Notifications.csproj", "{83D2731D-CC17-4B22-859E-9F65AE29B571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52143A15-89C0-4230-BB9B-A65D7D688FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52143A15-89C0-4230-BB9B-A65D7D688FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52143A15-89C0-4230-BB9B-A65D7D688FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52143A15-89C0-4230-BB9B-A65D7D688FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E068D0-B839-4499-BEBA-F58A7688F6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E068D0-B839-4499-BEBA-F58A7688F6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E068D0-B839-4499-BEBA-F58A7688F6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E068D0-B839-4499-BEBA-F58A7688F6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D2731D-CC17-4B22-859E-9F65AE29B571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D2731D-CC17-4B22-859E-9F65AE29B571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D2731D-CC17-4B22-859E-9F65AE29B571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D2731D-CC17-4B22-859E-9F65AE29B571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
