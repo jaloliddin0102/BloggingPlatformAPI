@@ -251,4 +251,5 @@ This project is licensed under the MIT License.
 **Ready for deployment and further extension!**  
 Agar qo‘shimcha savollaringiz bo‘lsa yoki yordam kerak bo‘lsa, iltimos, murojaat qiling.
 
----https://roadmap.sh/projects/blogging-platform-api
+---
+```https://roadmap.sh/projects/blogging-platform-api```
